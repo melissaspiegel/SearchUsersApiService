@@ -1,4 +1,4 @@
-# -services-mini
+# Services-mini
 
 A minimal, self-contained TypeScript repository demonstrating **service-layer patterns**, **defensive API normalization**, and **Vitest mocking best practices** inspired by real-world changes in the `` codebase.
 
@@ -33,7 +33,7 @@ This repository exists to demonstrate **three specific patterns**:
 ## Project Structure
 
 ```text
--services-mini/
+|-services-mini/
 ├── src/
 │   ├── dtos/
 │   │   ├── Project.ts
