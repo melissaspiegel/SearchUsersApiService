@@ -1,5 +1,5 @@
 {
-  "name": "newt-services-mini",
+  "name": "services-mini",
   "private": true,
   "type": "module",
   "scripts": {
